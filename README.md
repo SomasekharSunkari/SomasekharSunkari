@@ -8,7 +8,7 @@
 
 ###
 
-<h1 align="center">👋 I am sekhar !<br>Passionate Devops and Full stack Engineer</h1>
+<h1 align="center">👋 I am sekhar !<br>Passionate Devops and Full stack Developer</h1>
 
 ###
 
